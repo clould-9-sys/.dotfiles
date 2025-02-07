@@ -52,14 +52,14 @@ format = '[$symbol](bold white) '
 disabled = false
 
 [os.symbols]
-Macos = '󰀵'
+Macos = '🐧'
 
 # Shows the hostname
 [hostname]
 ssh_only = false
 format = 'on [$hostname](bold yellow) '
 disabled = false
-ssh_symbol = " "
+ssh_symbol = "🖥️"
 
 # Shows current directory
 [directory]
@@ -122,7 +122,7 @@ symbol = " "
 symbol = " "
 
 [lua]
-symbol = " "
+symbol = "🗃️ "
 
 [memory_usage]
 symbol = "󰍛 "
